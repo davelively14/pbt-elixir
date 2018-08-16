@@ -1,0 +1,4 @@
+%{
+  "propcheck": {:hex, :propcheck, "1.1.0", "79eb1b8e6941cfee03246b39cbb3863b904b13a7c7ca68d7ae2dda7fdbd25b0a", [:mix], [{:proper, "~> 1.2.0", [hex: :proper, repo: "hexpm", optional: false]}], "hexpm"},
+  "proper": {:hex, :proper, "1.2.0", "1466492385959412a02871505434e72e92765958c60dba144b43863554b505a4", [:make, :mix, :rebar3], [], "hexpm"},
+}
